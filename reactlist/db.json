@@ -1,0 +1,19 @@
+{
+  "taskpoint": [
+    {
+      "descricao": "Estudar React212",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "descricao": "Estudar Node",
+      "status": false
+    },
+    {
+      "id": "3",
+      "descricao": "Estudar JavaScript",
+      "status": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
