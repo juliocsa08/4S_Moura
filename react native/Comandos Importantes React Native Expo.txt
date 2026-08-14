@@ -1,0 +1,28 @@
+Comandos Importantes React Native Expo
+
+
+
+[ ] npx create-expo-app@latest HelloExpo --template blank@sdk-54 (instala um template básico/vazio com skd 54 para usar o Expo Go)
+
+[ ] cd HelloExpo - entra na pasta do projeto
+
+[ ] npx expo install react-dom react-native-web @expo/metro-runtime (instala os pacotes pra debugar no navegador)
+
+npx expo start (roda o programa Expo - React Native)
+
+Vai aparecer as opções abaixo, vo ê deve pressionar w para web ou escanear o QR CODE pra usar o expo (TEM QUE ESTAR NA MESMA REDE WIFI):
+
+Press a │ open Android
+Press i │ open iOS
+Press w │ open Web	
+
+Caso não abra a opção do navegador você pode instalar os pacotes a parte:
+npx expo install react-dom react-native-web @expo/metro-runtime
+
+
+
+
+
+
+npx create-expo-app@latest HelloExpo --template blank@sdk-54
+npx expo start
